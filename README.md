@@ -29,26 +29,6 @@
 
 ---
 
-# 📸 项目截图
-
-## 首页
-
-![首页](../README-assets/app-home.png)
-
----
-
-## 医生列表
-
-![医生列表](../README-assets/app-doctor.png)
-
----
-
-## 我的预约
-
-![我的预约](../README-assets/app-order.png)
-
----
-
 # 📦 项目启动
 
 ## 使用 HBuilderX 打开项目
